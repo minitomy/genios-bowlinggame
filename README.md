@@ -27,5 +27,6 @@ How to run the application?
 3. Run mvn clean install
 4. Right-click on App.java and select "Run as Java Application"
 5. Once the application is started, access - http://localhost:8080/playgame 
+
   a. Add pin numbers and click on Submit for game play. 
   b. To reset or restart the game, press RESTART button.
